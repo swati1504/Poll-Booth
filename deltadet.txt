@@ -1,0 +1,9 @@
+admin username: nitt123
+admin password: nitt123
+
+for login
+username: delta
+password: delta24
+
+username: swatinitt123
+password: nitt123
