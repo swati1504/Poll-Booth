@@ -22,19 +22,7 @@
 		border: 5px grey;
 		padding: 10px;
 	}
-	@media only screen and (max-width: 960px) {
-	  .col-xs-12 {
-		display: flex;
-		flex-direction: column-reverse;
-	  }
-	  .dasmsg{
-		float:left;
-		width: 90%;
-		height: 300px;
-		background: yellow;
-		margin: 20px;
-	  }
-	}
+	
 	.center {
 	  display: block;
 	  margin-left: auto;
